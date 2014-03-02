@@ -1,0 +1,28 @@
+{
+    "frames": [
+
+{
+    "filename": "fly.swf/0000",
+    "frame": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 }
+},
+{
+    "filename": "fly.swf/0001",
+    "frame": { "x": 0, "y": 30, "w": 30, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 }
+}],
+    "meta": {
+        "app": "http://www.g-raph.be",
+        "version": "1.0",
+        "image": "fly.png",
+        "format": "RGBA8888",
+        "size": { "w": 30, "h": 60 },
+        "scale": "1"
+    }
+}
